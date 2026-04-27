@@ -1,6 +1,6 @@
 # 👋 Hi there:
 I’m @Kunal,<br> 
-enrolled as a Btech Cse student in RVU Bglr📍<br><br>Currently working on improving my understanding of : ML Concepts and there implementations, Data structures & Algorithms and Backend Development<br><br>I’m open to collaborating on: Machine Learning projects and Backend systems<br><br>⚡fun fact : i once trained an ai model for 100epochs instead of 10… my laptop almost took off 🚁
+enrolled as a Btech Cse student in RVU Blr📍<br><br>Currently working on improving my understanding of : ML Concepts and there implementations, Data structures & Algorithms and Backend Development<br><br>I’m open to collaborating on: Machine Learning projects and Backend systems<br><br>⚡fun fact : i once trained an ai model for 100epochs instead of 10… my laptop almost took off 🚁
 
 
 ## 🌐 Socials:
